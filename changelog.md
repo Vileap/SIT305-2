@@ -1,9 +1,9 @@
 Weekly Report for Assignment 2
 
 
-Week 7
+## Week 7
 
-•	Start assignment 2: Mobile App
+- Start assignment 2: Mobile App
 
 
   
